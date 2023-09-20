@@ -1,5 +1,9 @@
-# simplifiedUnetSR
+# City Scene Super-Resolution via Geometric Error Minimization
 
+
+
+
+#PROMPT
 
 python main.py -m unet -uf 2 -lr 0.001 -n 300
 
@@ -11,8 +15,9 @@ python main.py -m unet -uf 2 -lr 0.001 -n 300
 -lr [learning rate]	
 -n [epochs]	
 
-
 -m [model] 	
+
+GeoSR--->GeoSR
 
 SimUnet--->simunet	
 
